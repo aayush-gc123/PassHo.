@@ -13,7 +13,7 @@ PassHo is a web-based password manager application built using React. It allows 
 ## Features
 - **Password Management**: Store and organize passwords securely.
 - **Password Visibility Control**: Toggle password visibility for easy copying.
-- **Add, Edit, Delete Passwords**: Perform CRUD operations on stored passwords.
+- **Add, Edit, Delete Passwords**: Perform CRUD in MongoDB to edit , add and delate using API concept passwords.
 - **Backend**: Save password in MongoDB By POST method using ExpressJs
 - **Toast Notifications**: Informative toast notifications for user actions.
 - **Clipboard Copy**: Copy passwords to clipboard with a click.
