@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer components {
+  .my-container {
+    @apply container py-8 px-32;
+  }
+}
