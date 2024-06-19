@@ -1,4 +1,4 @@
-# PassHo - Your Password Manager Website
+# PassHo - Your Password Manager Website - Backend version
 
 PassHo is a web-based password manager application built using React. It allows users to securely store and manage their passwords for various websites. This project utilizes modern web technologies including React hooks, RESTful API integration, and interactive UI components.
 
