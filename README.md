@@ -5,7 +5,8 @@ PassHo is a web-based password manager application built using React. It allows 
 ## Table of Contents
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
+- [Usage](#usage)![Screenshot 2024-11-26 172745](https://github.com/user-attachments/assets/22c81bd9-f07a-4c90-b202-f7b3d910486c)
+
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
 - [License](#license)
